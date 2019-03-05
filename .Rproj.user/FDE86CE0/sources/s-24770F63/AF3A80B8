@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551643833864.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AF3A80B8",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1551643833864,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "BBC17D",
+        "caption" : "strokeTrials",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=strokeTrials&cache_key=BBC17D",
+        "displayedObservations" : "108",
+        "environment" : "",
+        "object" : "strokeTrials",
+        "preview" : "0",
+        "totalObservations" : "108",
+        "variables" : "10"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551643782714.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "91120FD5",
+    "lastKnownWriteTime" : 4919671809621622790,
+    "last_content_update" : 1551643782714,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "74F11C98",
+        "caption" : "allLogs",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=allLogs&cache_key=74F11C98",
+        "displayedObservations" : 324,
+        "environment" : "",
+        "object" : "allLogs",
+        "preview" : 0,
+        "totalObservations" : 324,
+        "variables" : 9
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
